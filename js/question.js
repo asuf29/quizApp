@@ -12,5 +12,5 @@ let questions = [
     new Question("1-aaaaascsx", {a:"asd", b:"gvhbjn", c:"asxd"}, "a"),
     new Question("2-aaaaascsx", {a:"asd", b:"gvhbjn", c:"asxd"}, "b"),
     new Question("3-aaaaascsx", {a:"asd", b:"gvhbjn", c:"asxd"}, "c"),
-    new Question("4-aaaaascsx", {a:"asd", b:"gvhbjn", c:"asxd"}, "d"),
+    new Question("4-aaaaascsx", {a:"asd", b:"gvhbjn", c:"asxd"}, "a"),
 ];
