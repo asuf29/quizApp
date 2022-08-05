@@ -1,4 +1,4 @@
-# quizApp: Sadık Turan'ın Komple Uygulamalı Web Geliştirme Eğitimi'nde OOP mantığını anlamak için yaptığımız uygulama 
+# quizApp
 ![startquiz](https://github.com/asuf29/quizApp/blob/master/img/1.png)
 ![question1](https://github.com/asuf29/quizApp/blob/master/img/2.png)
 ![question2](https://github.com/asuf29/quizApp/blob/master/img/3.png)
